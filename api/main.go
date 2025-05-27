@@ -163,6 +163,8 @@ var modelMap = map[string]string{
 	"claude-3-7-sonnet-think": "claude_3_7_sonnet_thinking",
 	"claude-4-sonnet":       "claude_4_sonnet",
 	"claude-4-sonnet-think": "claude_4_sonnet_thinking",
+	"claude-4-opus":       "claude_4_opus",
+	"claude-4_opus-thinking": "claude_4_opus_thinking",
 	"gpt-4.5-preview":         "gpt_4_5_preview",
 	"gemini-2.5-pro":	   "gemini_2_5_pro_preview",
 	"o3":	   "openai_o3",
