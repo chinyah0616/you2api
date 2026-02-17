@@ -159,7 +159,7 @@ var modelMap = map[string]string{
 	"gpt-4o-mini":             "gpt_4o_mini",
 	"claude-3-opus":           "claude_3_opus",
 	"claude-3.5-sonnet":       "claude_3_5_sonnet",
-	"gemini-1.5-pro":          "gemini_1_5_pro",
+	"gemini-3-pro":          "gemini_3_pro",
 	"gemini-2.0-flash":        "gemini_2_flash",
 	"llama-3.3-70b":           "llama3_3_70b",
 	"llama-4-maverick":        "llama4_maverick",
